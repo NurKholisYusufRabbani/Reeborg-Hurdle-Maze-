@@ -1,0 +1,4 @@
+def kanan_kosong():
+    turn_left()
+    turn_left()
+    turn_left()
